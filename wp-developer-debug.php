@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       WP Developer Debug
  * Plugin URI:        https://symaticsolutions.com/symatic-developer-debug
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       WP Developer Debug is a plugin to ease the development & debugging process for developers. Its the collection of tools to help developers making site secure and error free.
  * Version:           0.1.0
  * Author:            Symatic Solutions
  * Author URI:        https://symaticsolutions.com
